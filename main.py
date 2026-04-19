@@ -8,8 +8,8 @@ from email.mime.application import MIMEApplication
 # --- CONFIGURATION ---
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SENDER_EMAIL = "denrncrkvcarabeo@gmail.com"
-SENDER_PASSWORD = "yjsa mcfl cgtu slzu"  # Use the App Password here
+SENDER_EMAIL = "xxxxxxxxxxxxxxxxxxxx"
+SENDER_PASSWORD = "xxxxxxxxxxxxxxxxx"  # Use the App Password here
 
 def send_automated_emails(csv_file, subject, resume_path=None):
     # Create a secure SSL context
